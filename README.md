@@ -89,4 +89,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update:  24.06.2025 04:44:46 Corrected broken authentication guide links
+
+
+Update:  06/26/2025 08-39
